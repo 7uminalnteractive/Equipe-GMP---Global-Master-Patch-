@@ -1,0 +1,1 @@
+console.log('Equipe GMP carregada com sucesso');
